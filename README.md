@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I'm currently a third-year student about to graduate from the Ho Chi Minh City University of Foreign Languages and Information Technology.<br>🔭 I'm currently interning at FPT Software.<br>👯 I'm looking for new opportunities to grow.<br>🌱 I'm currently learning new technologies to contribute to large projects.<br>💬 Feel free to ask me about myself and my knowledge.<br>⚡ I'm an extrovert but slightly lacking in confidence. :)
+I'm currently a third-year student about to graduate from the Ho Chi Minh City University of Foreign Languages and Information Technology.<br>🔭 I'm currently interning at FPT Software.<br>👯 I'm looking for new opportunities to grow.<br>🌱 I'm currently learning new technologies to contribute to large projects.<br>💬 Feel free to ask me about myself and my knowledge.<br>⚡ I'm an extrovert but slightly lacking in confidence. :)
 
 
 ## 🌐 Socials:
