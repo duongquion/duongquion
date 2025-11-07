@@ -1,11 +1,22 @@
-Hi, I'm On 👋
+<h2 align="center">Hi, I'm On 👋</h2>
 
-🎓 Bachelor of Information Technology — Ho Chi Minh City University of Foreign Languages and Information Technology.</br>
-💼 Former Software Engineer at Aegona Ltd. and intern at FPT Software.
+<p align="center">
+  <b>Junior Software Engineer • Backend & System Design • Continuous Learner</b>
+</p>
 
-I am passionate about building reliable software and improving system quality through clean code, maintainable architecture, and continuous learning. I thrive in environments where I can solve meaningful problems, collaborate with talented people, and keep pushing my technical and professional growth.
+---
 
-🌍 Currently seeking opportunities at technology-driven companies where I can contribute, grow, and take on real-world challenges.
+### 👨‍💻 About Me  
+
+🎓 Bachelor's degree in Information Technology — Ho Chi Minh City University of Foreign Languages and Information Technology  
+💼 Former Software Engineer at **Aegona Ltd.** | Internship experience at **FPT Software**
+
+I enjoy building software that is clean, maintainable, and actually solves real problems.  
+I learn by doing — through real projects, real teamwork, and real challenges.
+
+🚀 Currently seeking opportunities to grow and contribute as a **Software Engineer**.
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=duongquion&theme=dracula&hide_border=false)<br/>
@@ -16,5 +27,9 @@ I am passionate about building reliable software and improving system quality th
 
 ---
 [![](https://visitcount.itsvg.in/api?id=duongquion&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+<p align="center">✨ Learning. Building. Improving. ✨</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
